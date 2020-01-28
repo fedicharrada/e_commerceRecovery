@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816897301709",
+    "firebase_url": "https://ecommerce-3051e.firebaseio.com",
+    "project_id": "ecommerce-3051e",
+    "storage_bucket": "ecommerce-3051e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816897301709:android:415f656b0106470bae9d84",
+        "android_client_info": {
+          "package_name": "com.fediflutter.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816897301709-ee94tvar5kru949ub4igads945utrc6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fediflutter.e_commerce",
+            "certificate_hash": "95a5fe57b64c79d9646231ec5d01f4a806fa2c2a"
+          }
+        },
+        {
+          "client_id": "816897301709-tff1b3k6ukaii7tmdn30enb2ahq51rmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbFjRWoEwF8azS2Z4RrFXqAqttQ1KhVPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816897301709-tff1b3k6ukaii7tmdn30enb2ahq51rmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
